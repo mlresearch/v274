@@ -3,7 +3,7 @@ booktitle: Proceedings of The 3rd Conference on Lifelong Learning Agents
 shortname: CoLLAs
 year: '2024'
 volume: '274'
-start: &1 2024-07-29
+start: 2024-07-29
 end: 2024-08-01
 published: 2025-02-17
 conference_number: '3'
@@ -79,7 +79,7 @@ conference:
   url: https://lifelong-ml.cc/
   location: University of Pisa, Pisa, Italy
   dates:
-  - *1
+  - 2024-07-29
   - 2024-07-30
   - 2024-07-31
   - 2024-08-01
